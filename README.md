@@ -7,7 +7,7 @@ Skills:
 C / C++/ C# / Java / Python / Bash / JS / HTML / CSS
 
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Seba&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Seba&show_icons=true&theme=radical)
 
 <!---
 Omar-Seba/Omar-Seba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
