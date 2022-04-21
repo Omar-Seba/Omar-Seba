@@ -10,6 +10,7 @@ C / C++/ C# / Java / Python / Bash / JS / HTML / CSS
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Seba)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Seba&show_icons=true&theme=radical)
 
 <!---
 Omar-Seba/Omar-Seba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
