@@ -5,7 +5,7 @@ My name is Omar Seba and I'm 22 years old, I'm an IT student at EPITA
 
 Skills: 
 
-C / C++/ C# / Java / Python / Bash / JS / HTML / CSS
+C / C++/ C# / Java / Python / Bash / JS (NodeJS, ReactJS) / HTML / CSS / PostgreSQL / VBA / Docker 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Seba&show_icons=true&theme=radical)
